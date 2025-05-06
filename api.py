@@ -11,6 +11,7 @@ ALLOWED_AUDIO_TYPES = {
     "audio/mpeg",
     "audio/wav",
     "audio/x-wav",
+    "audio/wave", 
     "audio/ogg",
     "audio/x-flac",
     "audio/flac",
