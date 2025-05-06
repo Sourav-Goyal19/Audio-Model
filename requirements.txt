@@ -5,3 +5,4 @@ pandas
 fastapi[standard]
 python-multipart
 librosa
+uvicorn
