@@ -1,5 +1,6 @@
 fastapi
 tensorflow
+tensorflow-io
 numpy
 pandas
 fastapi[standard]
